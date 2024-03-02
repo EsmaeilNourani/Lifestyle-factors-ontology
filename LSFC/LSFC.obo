@@ -16,13 +16,13 @@ creation_date: 2020-06-16T15:55:25Z
 [Term]
 id: LFID:0000001
 name: surgery and interventions
-is_a: LFID:0000002 ! beauty and cleaning
+is_a: LFID:0000002 ! personal care products and cosmetic procedures
 created_by: Danai Vagiaki
 creation_date: 2020-06-16T17:00:26Z
 
 [Term]
 id: LFID:0000002
-name: beauty and cleaning
+name: personal care products and cosmetic procedures
 is_a: LFID:0000000 ! lifestyle factors
 created_by: Danai Vagiaki
 creation_date: 2020-06-16T16:47:27Z
@@ -198,7 +198,7 @@ synonym: "application of cleaning and personal care products" EXACT []
 synonym: "application of cosmetic and cleaning products" EXACT []
 synonym: "use of cleaning and cosmetic products" EXACT []
 synonym: "use of cleaning and personal care products" EXACT []
-is_a: LFID:0000002 ! beauty and cleaning
+is_a: LFID:0000002 ! personal care products and cosmetic procedures
 created_by: Danai Vagiaki
 creation_date: 2020-06-16T17:00:26Z
 
@@ -432,7 +432,7 @@ xref: http://purl.obolibrary.org/obo/MESH_D006920
 xref: http://purl.obolibrary.org/obo/MESH_D009910
 xref: http://purl.obolibrary.org/obo/MESH_D012499
 xref: http://purl.obolibrary.org/obo/MESH_D063373
-is_a: LFID:0000002 ! beauty and cleaning
+is_a: LFID:0000002 ! personal care products and cosmetic procedures
 created_by: Danai Vagiaki
 creation_date: 2020-06-16T17:37:31Z
 
