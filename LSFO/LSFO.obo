@@ -10,8 +10,8 @@ owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://w
 id: LFID:0000000
 name: lifestyle factors
 xref: ICD10:Z72 "ICD-10-CM, Chapter 21, Code Z72: Problems related to lifestyle"
-created_by: Danai Vagiaki
-creation_date: 2020-06-16T15:55:25Z
+created_by: Esmaeil Nourani
+creation_date: 2024-09-08
 
 [Term]
 id: LFID:0000001
